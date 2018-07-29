@@ -6,4 +6,5 @@
 3. Xshell  
 
 ## 二、系统安装
-1. **虚拟机setup**
+1. **虚拟机setup**  
+![虚拟机setup](https://github.com/faaaatcow/stunning-train/blob/master/pics/%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%AE%BE%E7%BD%AE.jpg)
